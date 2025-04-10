@@ -1,5 +1,5 @@
 import fetch from "node-fetch";
-
+    
 const MAX_REQUESTS = 100; // Reduzido para testar melhor no meu pc
 const TOTAL_ROUNDS = 1000;
 const DELAY_BETWEEN_ROUNDS = 100;
