@@ -4,7 +4,7 @@ const MAX_REQUESTS = 100; // Reduzido para testar melhor no meu pc
 const TOTAL_ROUNDS = 1000;
 const DELAY_BETWEEN_ROUNDS = 100;
 
-// simular os navegadores pro produções ferreira(ou produtora, sei la) não desconfiar
+// simular os navegadores pro sistema não desconfiar
 const userAgents = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
     "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/109.0",
